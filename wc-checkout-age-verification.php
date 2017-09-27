@@ -1,14 +1,18 @@
 <?php 
-/* 
-Plugin Name: WooCommerce Checkout Age Verification
-Description: This plugin is used to varify age of user at WooCommerce checkout. 
-Version: 1.1
-Author: Parth Shah, lukecav
-Author URI: www.parthcreation.in
-Plugin URI: https://github.com/lukecav/woocommerce-checkout-age-verification
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-*/
+/**
+ * Plugin Name: WooCommerce Checkout Age Verification
+ * Description: This plugin is used to varify age of user at WooCommerce checkout. 
+ * Version: 1.1
+ * Author: Parth Shah, lukecav
+ * Author URI: https://github.com/lukecav/
+ * Plugin URI: https://github.com/lukecav/woocommerce-checkout-age-verification
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: woocommerce-registration-redirect
+ * Domain Path: /languages
+ * WC requires at least: 3.0.0
+ * WC tested up to: 3.2.0
+ */
 
 if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) ) ) {
     // Put your plugin code here
@@ -34,8 +38,8 @@ $checkout = WC()->checkout();
  
     woocommerce_form_field( 'my_field_name', array(
         'type'          => 'text',
-	 'required'      => true,
-	 'readonly'      => 'readonly',
+	'required'      => true,
+	'readonly'      => 'readonly',
         'class'         => array('my-field-class form-row-wide'),
         'label'         => __('Your Birthdate (mm-dd-yyyy)'),
         'placeholder'   => __(''),

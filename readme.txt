@@ -7,13 +7,13 @@ Requires PHP: 5.3
 Stable tag: 1.1
 License: GPLv2 or later
 
-This plugin is used to to varify age of customer at WooCommerce checkout.
+This plugin is used to verify the age of customer at WooCommerce checkout.
 
 == Description ==
 
 This plugin creates a datepicker field at WooCommerce checkout page.
 Minimum Age should be set from admin section inside setting page of wocoomerce
-Plugin will validate the Age and if Age is smaller than required age than it will not allow customer to checkout
+Plugin will validate the Age and if Age is smaller than required age than it will not allow customer to complete checkout
 
 == Upgrade Notice ==
 

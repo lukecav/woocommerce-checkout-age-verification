@@ -1,6 +1,6 @@
 === WC Checkout Age Verification ===
-Contributors: Parthcreation, lukecav
-Tags:  woocommerce
+Contributors: lukecav, Parthcreation
+Tags:  woocommerce, checkout, age, verification
 Requires at least: 4.6
 Tested up to: 4.8.2
 Requires PHP: 5.3

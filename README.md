@@ -3,7 +3,7 @@ This plugin is used to verify the age of customer at WooCommerce checkout.
 
 ## Description
 
-WooCommerce Checkout Age Verification will creates a datepicker field at WooCommerce checkout page.
+WooCommerce Checkout Age Verification will create a datepicker field at WooCommerce checkout page.
 
 ## Installation
 

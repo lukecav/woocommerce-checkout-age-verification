@@ -1,7 +1,7 @@
 <?php 
 /**
  * Plugin Name: WooCommerce Checkout Age Verification
- * Description: This plugin is used to varify age of user at WooCommerce checkout. 
+ * Description: This plugin is used to verify age of user at WooCommerce checkout. 
  * Version: 1.1
  * Author: Parth Shah, lukecav
  * Author URI: https://github.com/lukecav/

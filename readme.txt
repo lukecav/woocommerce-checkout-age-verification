@@ -12,8 +12,8 @@ This plugin is used to verify the age of customer at WooCommerce checkout.
 == Description ==
 
 This plugin creates a datepicker field at WooCommerce checkout page.
-Minimum Age should be set from admin section inside setting page of wocoomerce
-Plugin will validate the Age and if Age is smaller than required age than it will not allow customer to complete checkout
+Minimum Age should be set from admin section inside setting page of WooCommerce.
+Plugin will validate the Age and if Age is smaller than required age than it will not allow customer to complete checkout.
 
 == Upgrade Notice ==
 
@@ -23,7 +23,7 @@ Plugin will validate the Age and if Age is smaller than required age than it wil
 
 == Installation ==
 
-1. Upload the `woocommerce-checkout-age-verification` directory into `wp-content/plugins/`
+1. Upload the `woocommerce-checkout-age-verification.zip` directory into `wp-content/plugins/`
 2. Activate the plugin through the "Plugins" menu in WordPress
 3. Use
 

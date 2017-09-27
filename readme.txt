@@ -1,4 +1,4 @@
-=== WC Checkout Age Verification ===
+=== WooCommerce Checkout Age Verification ===
 Contributors: lukecav, Parthcreation
 Tags:  woocommerce, checkout, age, verification
 Requires at least: 4.6

@@ -3,7 +3,7 @@
  * Plugin Name: WooCommerce Checkout Age Verification
  * Description: This plugin is used to verify age of user at WooCommerce checkout. 
  * Version: 1.1
- * Author: Parth Shah, lukecav
+ * Author: lukecav, Parth Shah
  * Author URI: https://github.com/lukecav/
  * Plugin URI: https://github.com/lukecav/woocommerce-checkout-age-verification
  * License: GNU General Public License v2 or later
